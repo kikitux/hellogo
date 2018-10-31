@@ -2,7 +2,7 @@
 A simple Go program that prints hello and a vagrant file to create a VM on which to run it.
 
 #### Prerequisites:
-* Install Vagrant - [installation instrictions](https://www.vagrantup.com/downloads.html)
+* Install Vagrant - [installation instructions](https://www.vagrantup.com/downloads.html)
 
 #### Setting up Vagrant environment:
 * Build the VM - run: `vagrant up`
