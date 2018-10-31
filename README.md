@@ -1,5 +1,5 @@
 ## Hello Go
-A simple GO program that prints hello and a vagrant file to create a VM on which to run it.
+A simple Go program that prints hello and a vagrant file to create a VM on which to run it.
 
 #### Prerequisites:
 * Install Vagrant - [installation instrictions](https://www.vagrantup.com/downloads.html)
