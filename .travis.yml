@@ -1,5 +1,7 @@
 language: generic
 dist: xenial
 sudo: required
+install: 
+  - ./scripts/install_go.sh
 script:
-  - exit 0
+  - bash ./tests/test_hello.sh
