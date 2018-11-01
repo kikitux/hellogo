@@ -2,6 +2,6 @@ language: generic
 dist: xenial
 sudo: required
 install: 
-  - ./scripts/install_go.sh
+  - bash ./scripts/install_go.sh
 script:
   - bash ./tests/test_hello.sh
