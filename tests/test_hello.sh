@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
 #compile hello.go
-go build ./hellogo/hello.go
+go build hello.go
 
 #get the output of hello.go
 result=$(./hello)
