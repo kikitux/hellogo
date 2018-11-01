@@ -10,6 +10,6 @@ A simple Go program that prints hello and a vagrant file to create a VM on which
 * Install Go - run: `/vagrant/scripts/install_go.sh`
 
 #### Runnig Hello Go program
-* Build the program - run: `go build /vagrant/hellogo/hello.go`<br>
+* Build the program - run: `go build /vagrant/hello.go`<br>
 This will create an executable binary in your current directory
 * Run the program - run: `./hello`
